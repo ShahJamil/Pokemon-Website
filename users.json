@@ -1,0 +1,52 @@
+{
+    "65a2f5047a911": {
+        "username": "kurddavud",
+        "password": "$2y$10$jzAkZmKQBA9SclX0whn8m.t3JMeS3vHFjtmJCQE7uPd0co176Qp06",
+        "email": "1",
+        "money": 500,
+        "roles": [
+            "user"
+        ],
+        "id": "65a2f5047a911"
+    },
+    "65a46c9a4d793": {
+        "username": "hohu",
+        "password": "$2y$10$E8Kusl17vA.jEFk9xmBG\/OXm5E3QJz3oi4rdCrIJCV4PHCHU8zFBS",
+        "email": "hohu@mail.ru",
+        "money": 500,
+        "roles": [
+            "user"
+        ],
+        "id": "65a46c9a4d793"
+    },
+    "65a46ca8e45b6": {
+        "username": "admin",
+        "password": "$2y$10$ZJoQ71ncUmLkfUHjXpdXleNsHZb006KjvT3Xg.kMxiyho\/NetU.Ye",
+        "email": "jamil.shah@mail.ru",
+        "money": 500,
+        "roles": [
+            "admin"
+        ],
+        "id": "65a46ca8e45b6"
+    },
+    "65a5befe2f3da": {
+        "username": "PokemonFan",
+        "password": "$2y$10$It20anGvThnVY0tRoU6OkejXzcmwFQOwZJ756fl5lcaMgmy2zoBD2",
+        "email": "pokemon@mail.com",
+        "money": 500,
+        "roles": [
+            "user"
+        ],
+        "id": "65a5befe2f3da"
+    },
+    "65a6a0e05e201": {
+        "username": "mmm",
+        "password": "$2y$10$h3yE7Xv6iQLFARFFgDZMy.e40UHYPGI\/S\/WoJIf4.1pIYTj0Zns82",
+        "email": "m@mail.ru",
+        "money": 500,
+        "roles": [
+            "user"
+        ],
+        "id": "65a6a0e05e201"
+    }
+}
